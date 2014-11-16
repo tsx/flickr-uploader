@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 #
 # This script handles the command line input only
 # The actual logic is in /lib
